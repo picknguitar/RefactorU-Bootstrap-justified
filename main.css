@@ -1,0 +1,12 @@
+.nav {
+	list-style: none;
+}
+
+.nav-justified {
+	display: table-cell;
+	width: 1%;
+}
+
+.nav-justified li {
+
+}
